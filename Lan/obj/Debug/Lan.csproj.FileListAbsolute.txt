@@ -1,0 +1,9 @@
+D:\C#\Network\Lan\Lan\bin\Debug\Lan.exe.config
+D:\C#\Network\Lan\Lan\obj\Debug\Lan.csprojResolveAssemblyReference.cache
+D:\C#\Network\Lan\Lan\obj\Debug\Lan.Form1.resources
+D:\C#\Network\Lan\Lan\obj\Debug\Lan.Properties.Resources.resources
+D:\C#\Network\Lan\Lan\obj\Debug\Lan.csproj.GenerateResource.Cache
+D:\C#\Network\Lan\Lan\bin\Debug\Lan.exe
+D:\C#\Network\Lan\Lan\bin\Debug\Lan.pdb
+D:\C#\Network\Lan\Lan\obj\Debug\Lan.exe
+D:\C#\Network\Lan\Lan\obj\Debug\Lan.pdb
